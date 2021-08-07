@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #434343;
+}
+
+.main_visual {
+}
+
+.main_visual img {
+    width: 100%;
+}
+
+.header_menu {
+    position: all;
+    top: 0;
+}
+
+.header_list {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.header_list_item {
+    list-style: none;
+    float: left;
+}
